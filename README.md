@@ -2,7 +2,7 @@
 
 
 
-RStudio: [![Binder](http://mybinder.org/badge_logo.svg)](http://mybinder.org/v2/gh/RodjtIFOP/BIDER_prueba/master?urlpath=rstudio)
+RStudio: [![Binder](http://mybinder.org/badge_logo.svg)](http://mybinder.org/v2/gh/RodjtIFOP/BINDER_prueba/master?urlpath=rstudio)
 
 
 
